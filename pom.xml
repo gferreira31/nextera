@@ -31,8 +31,8 @@
 
 					<configuration>
 						<!-- context root for Java web apps -->
-						<path>/</path>
-						<port>8088</port>
+						 <url>http://localhost:8080/manager/text</url>
+						<path>/rps</path>
 						<!-- name of Tomcat executable jar file -->
 						<finalName>executable.jar</finalName>
 					</configuration>
